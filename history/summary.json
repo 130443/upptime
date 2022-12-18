@@ -40,18 +40,20 @@
     "url": "https://maximus.com",
     "icon": "https://icons.duckduckgo.com/ip3/maximus.com.ico",
     "slug": "maximus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 330,
-    "timeWeek": 311,
-    "timeMonth": 377,
-    "timeYear": 377,
-    "dailyMinutesDown": {}
+    "time": 372,
+    "timeDay": 271,
+    "timeWeek": 298,
+    "timeMonth": 372,
+    "timeYear": 372,
+    "dailyMinutesDown": {
+      "2022-12-18": 0
+    }
   },
   {
     "name": "Test Broken Site",
