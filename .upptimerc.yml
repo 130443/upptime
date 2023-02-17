@@ -7,8 +7,6 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Maximus
-    url: https://maximus.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
