@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 103,
-    "timeWeek": 161,
-    "timeMonth": 327,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 262,
+    "timeWeek": 187,
+    "timeMonth": 330,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "Test Broken Site",
